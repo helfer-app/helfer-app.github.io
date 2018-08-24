@@ -1,21 +1,30 @@
-## Welcome to GitHub Pages
+## Willkommen zur Helfer-App
+Die Helfer-App soll es Euren freiwilligen Helfern manches einfacher machen, damit sie mehr Spaß an ihrer eigentlichen Tätigkeit, dem Helfen, haben. Die Helfer-App wird selbst ehrenamtlich entwickelt.
 
-You can use the [editor on GitHub](https://github.com/helfer-app/helfer-app.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Funktionen
+### [Funktionen](#funktionen)
 
-* Orte: Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen und Fahrplanauskunft oder Google Maps Verlinkung
-* FAQ:  Auflistung aller FAQ's
-* Meine Schichten: Möglichkeit seine personalisierten Einsatzzeiten und Einsatzorte einzusehen
-* Meldezentrale: Gebt den Helfern die Möglichkeit Schäden an den Einsatzorten, Müllhaufen zu melden oder einfach einfach und schnell Feedback zur Veranstaltung einzuholen
+* **Orte**: Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen und Fahrplanauskunft oder Google Maps Verlinkung
+* **FAQ**:  Auflistung aller FAQ's
+* **Meine Schichten**: Möglichkeit seine personalisierten Einsatzzeiten und Einsatzorte einzusehen
+* **Meldezentrale**: Gebt den Helfern die Möglichkeit Schäden an den Einsatzorten, Müllhaufen zu melden oder einfach einfach und schnell Feedback zur Veranstaltung einzuholen
+* **Ansprechpartner**: Zeige Deinen Helfern wer für sie in welcher Situation zuständig ist
 
 ### Roadmap:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helfer-app/helfer-app.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mit neuen Veranstaltungen auf denen die App eingesetzt wird, kommen auch neue Ideen und Input um die App besser machen zu können.
+Folgende Features sind geplant. Mit ````x```` markierte Punkte sind derzeit in Arbeit 
 
-### Referenzen
+- [x] Komplette Neuentwicklung (Verbesserung des Handlings und Designs)
+- [] Karte mit allen Orten (als Überblick)
+- [] Miniatur-Karte in "Orte" integrieren
+- [] Anbindung an das [Engelsystem](https://engelsystem.de)
+- [] Indoor-Navigation (für Messegelände bspw.)
+- [] Eine Art Forum in dem Helfer Fragen stellen können die selbst wiederrum von anderen Helfern beantwortet werden können (zum Finden von Mitfahrgelegenheiten bspw.) 
+- [] Verbindungssuche für die öffentlichen Verkehrsmittel direkt in der App
+
+### [referenzen](#referenzen)
 
 ```markdown
 - Landeskinderturnfest 2018 Gießen: ~130 registrierte Nutzer
