@@ -6,12 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Funktionen
 
-```markdown
 * Orte: Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen und Fahrplanauskunft oder Google Maps Verlinkung
 * FAQ:  Auflistung aller FAQ's
 * Meine Schichten: Möglichkeit seine personalisierten Einsatzzeiten und Einsatzorte einzusehen
 * Meldezentrale: Gebt den Helfern die Möglichkeit Schäden an den Einsatzorten, Müllhaufen zu melden oder einfach einfach und schnell Feedback zur Veranstaltung einzuholen
-```
 
 ### Roadmap:
 
