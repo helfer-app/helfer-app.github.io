@@ -18,8 +18,8 @@ Folgende Features sind geplant. Mit ````x```` markierte Punkte sind derzeit in A
 
 - [x] Komplette Neuentwicklung (Verbesserung des Handlings und Designs)
 - [x] Tutorial/EInführung vor dem Einloggen mit seinem Helfer-Profil. "Was mache ich wenn ich mich angemeldet habe?, Was mache ich wenn ich am Veranstaltungsort angekommen bin? usw. Soll als einfache Einführung sein
+- [x] Miniatur-Karte in "Orte" integrieren
 - [] Karte mit allen Orten (als Überblick)
-- [] Miniatur-Karte in "Orte" integrieren
 - [] Anbindung an das [Engelsystem](https://engelsystem.de)
 - [] Indoor-Navigation (für Messegelände bspw.)
 - [] Eine Art Forum in dem Helfer Fragen stellen können die selbst wiederrum von anderen Helfern beantwortet werden können (zum Finden von Mitfahrgelegenheiten bspw.) 
