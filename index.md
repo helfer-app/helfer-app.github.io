@@ -1,15 +1,107 @@
 ## Willkommen zur Helfer-App
+
 Die Helfer-App soll es Euren freiwilligen Helfern manches einfacher machen, damit sie mehr Spaß an ihrer eigentlichen Tätigkeit, dem Helfen, haben. Die Helfer-App wird selbst ehrenamtlich entwickelt.
 
 
 
 ### [Funktionen](#funktionen)
 
-* **Orte**: Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen und Fahrplanauskunft oder Google Maps Verlinkung
-* **FAQ**:  Auflistung aller FAQ's
-* **Meine Schichten**: Möglichkeit seine personalisierten Einsatzzeiten und Einsatzorte einzusehen
-* **Meldezentrale**: Gebt den Helfern die Möglichkeit Schäden an den Einsatzorten, Müllhaufen zu melden oder einfach einfach und schnell Feedback zur Veranstaltung einzuholen
-* **Ansprechpartner**: Zeige Deinen Helfern wer für sie in welcher Situation zuständig ist
+<table>
+    <tr>
+    	<th>
+            Funktion
+    	</th>
+    	<th>
+    		Beschreibung
+    	</th>
+    	<th>
+    	Vorschau
+    	</th>
+    </tr>
+  <tr>
+        <td>
+           Login
+        </td>
+        <td>
+            Um die App verwenden zu können,kann ein Login verlangt werden um bspw. gewisse Informationen nur den Helfern zur Verfügung zu stellen
+        </td>
+        <td>
+            <img src="Helfer-App Login.gif">
+        </td>
+    </tr>
+  <tr>
+        <td>
+            Tutorial
+        </td>
+        <td>
+        	Gebt Euren Helfern einen kurzen Einblick in die App und legt vielleicht auch gleich den ersten Tipp dazu
+        </td>
+        <td>
+            <img src="Helfer-App Tutorial.gif">
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        	Orte
+        </td>
+        <td>
+            Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen und Fahrplanauskunft und integrierter Karte
+        </td>
+        <td>
+            <img src="Helfer-App Orte.gif">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            FAQ
+        </td>
+        <td>
+            Auflistung aller FAQ's
+        </td>
+        <td>
+            <img src="Helfer-App FAQ.gif">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Meine Schichten
+        </td>
+        <td>
+            Möglichkeit seine personalisierten Einsatzzeiten und Einsatzorte einzusehen
+        </td>
+        <td>
+            .
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ansprechpartner
+        </td>
+        <td>
+        	Zeige Deinen Helfern wer für sie in welcher Situation zuständig ist
+        </td>
+        <td>
+            <img src="Helfer-App Ansprechpartner.gif">
+        </td>
+    </tr>
+  <tr>
+        <td>
+            Suche
+        </td>
+        <td>
+        	Suche zum schnellen finden von Antworten
+        </td>
+        <td>
+            <img src="Helfer-App Suche.gif">
+        </td>
+    </tr>
+</table>
+
+ 
+
+
+
+
 
 ### Roadmap:
 
