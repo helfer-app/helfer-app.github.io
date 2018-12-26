@@ -2,6 +2,8 @@
 
 Die Helfer-App soll es Euren freiwilligen Helfern manches einfacher machen, damit sie mehr Spaß an ihrer eigentlichen Tätigkeit, dem Helfen, haben. Die Helfer-App wird selbst ehrenamtlich entwickelt.
 
+Mail: helferapp@gmail.com
+
 
 
 ### [Funktionen](#funktionen)
