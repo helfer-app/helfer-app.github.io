@@ -1,6 +1,6 @@
 ## Willkommen zur Helfer-App
 
-Die Helfer-App soll es Euren freiwilligen Helfern manches einfacher machen, damit sie mehr Spaß an ihrer eigentlichen Tätigkeit, dem Helfen, haben. Die Helfer-App wird selbst ehrenamtlich entwickelt.
+Die Helfer-App soll es Euren freiwilligen Helfern Manches einfacher machen, damit sie mehr Spaß an ihrer eigentlichen Tätigkeit, dem Helfen, haben.
 
 Mail: helferapp@gmail.com
 
@@ -25,7 +25,7 @@ Mail: helferapp@gmail.com
            Login
         </td>
         <td>
-            Um die App verwenden zu können,kann ein Login verlangt werden um bspw. gewisse Informationen nur den Helfern zur Verfügung zu stellen
+            Um die App verwenden zu können, kann ein Login verlangt werden um bspw. gewisse Informationen nur den Helfern zur Verfügung zu stellen
         </td>
         <td>
             <img src="Helfer-App Login.gif">
@@ -36,7 +36,7 @@ Mail: helferapp@gmail.com
             Tutorial
         </td>
         <td>
-        	Gebt Euren Helfern einen kurzen Einblick in die App und legt vielleicht auch gleich den ersten Tipp dazu
+        	Gebt Euren Helfern beim ersten Start der App einen kurzen Einblick in die App und legt vielleicht auch gleich den ersten Tipp dazu
         </td>
         <td>
             <img src="Helfer-App Tutorial.gif">
@@ -47,7 +47,7 @@ Mail: helferapp@gmail.com
         	Orte
         </td>
         <td>
-            Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen und Fahrplanauskunft und integrierter Karte
+            Auflistung aller Einsatzorte mit Zusatzinformationen wie Adresse, nächste Bushaltestellen, Fahrplanauskunft und integrierter Karte
         </td>
         <td>
             <img src="Helfer-App Orte.gif">
@@ -72,7 +72,7 @@ Mail: helferapp@gmail.com
             Möglichkeit seine personalisierten Einsatzzeiten und Einsatzorte einzusehen
         </td>
         <td>
-            .
+            (Screenshot coming soon)
         </td>
     </tr>
     <tr>
@@ -108,16 +108,17 @@ Mail: helferapp@gmail.com
 ### Roadmap:
 
 Mit neuen Veranstaltungen auf denen die App eingesetzt wird, kommen auch neue Ideen und Input um die App besser machen zu können.
-Folgende Features sind geplant. Mit ````x```` markierte Punkte sind derzeit in Arbeit 
+Folgende Features sind geplant. Mit ````x```` markierte Punkte sind derzeit in Arbeit
 
-- [x] Komplette Neuentwicklung (Verbesserung des Handlings und Designs)
-- [x] Tutorial/EInführung vor dem Einloggen mit seinem Helfer-Profil. "Was mache ich wenn ich mich angemeldet habe?, Was mache ich wenn ich am Veranstaltungsort angekommen bin? usw. Soll als einfache Einführung sein
-- [x] Miniatur-Karte in "Orte" integrieren
-- [] Karte mit allen Orten (als Überblick)
+- 
+- [x] Karte mit allen Orten (als Überblick)
+- [x] Fußwegberechnung in der Übersichtskarte (s.o.)
+- [] Anzeige der nächsten Bus Abfahrtszeiten an den "Orten" (Vorreiter für die Verbindungssuche)
+- [] Verbindungssuche für die öffentlichen Verkehrsmittel direkt in der App
+- [] Mitfahrerbörse: Wer kann mich an dem einen Tag mit nach YXZ nehmen?
 - [] Anbindung an das [Engelsystem](https://engelsystem.de)
 - [] Indoor-Navigation (für Messegelände bspw.)
-- [] Eine Art Forum in dem Helfer Fragen stellen können die selbst wiederrum von anderen Helfern beantwortet werden können (zum Finden von Mitfahrgelegenheiten bspw.) 
-- [] Verbindungssuche für die öffentlichen Verkehrsmittel direkt in der App
+- [] Eine Art Forum in dem Helfer Fragen stellen können die selbst wiederrum von anderen Helfern beantwortet werden können
 
 ### [Referenzen](#referenzen)
 
