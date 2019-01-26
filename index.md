@@ -108,9 +108,8 @@ Mail: helferapp@gmail.com
 ### Roadmap:
 
 Mit neuen Veranstaltungen auf denen die App eingesetzt wird, kommen auch neue Ideen und Input um die App besser machen zu können.
-Folgende Features sind geplant. Mit ````x```` markierte Punkte sind derzeit in Arbeit
+Folgende Features sind geplant. Mit einem Haken markierte Punkte sind derzeit in Arbeit
 
-- 
 - [x] Karte mit allen Orten (als Überblick)
 - [x] Fußwegberechnung in der Übersichtskarte (s.o.)
 - [] Anzeige der nächsten Bus Abfahrtszeiten an den "Orten" (Vorreiter für die Verbindungssuche)
